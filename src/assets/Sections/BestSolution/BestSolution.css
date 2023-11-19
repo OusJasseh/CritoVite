@@ -1,0 +1,76 @@
+.BestSolutions{
+    position: absolute;
+    top: 120px;
+    width: 1920px;
+    height: 774px;
+    background-color: #F0EFE9;
+
+
+}
+
+.SolutionIntro{
+    width: 831px;
+    height: 500,12px;
+    position: absolute;
+    top: 100px;
+    display: block;
+    
+    
+}
+
+.SolutionIntro h1{
+    width: 831px;
+    height: 328px;
+    font-size: 96px;
+    font-family: 'DM SANS';
+    font-weight: BOLD;
+    left: 299px;
+    position: absolute;
+}
+
+.SolutionIntro p{
+    width: 691px;
+    height: 59px;
+    font-size: 20px;
+    font-family: 'Inter';
+    position: absolute;
+    margin-top: 8,1px;
+    left: 299px;
+    position: absolute;
+    top: 350px;
+}
+
+.SolutionIntro button {
+    width: 208px;
+    height: 56px;
+    border: none;
+    top: 400px;
+    margin-top: 49px;
+    left: 299px;
+    position: absolute;
+    top: 400px;
+    
+}
+
+    .SolutionIntro .LearnMore button{
+        position: absolute;
+        left: 220px;
+        border-radius: 25px;
+        border: 1px solid black;
+        left: 550px;
+        position: absolute;
+        top: 400px;
+}
+
+.SolutionIntro img{
+    position: absolute;
+    top: 450px;
+    width: 836px;
+    height: 215px;
+}
+
+.BestSolutionImg{
+    position: absolute;
+    left: 57%;
+    bottom: 0;
+}

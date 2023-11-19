@@ -1,0 +1,15 @@
+.Rating h1{
+    width: 194px;
+    height: 30px;
+    font-size: 22px;
+    font-family: 'DM Sans';
+    font-weight: bold;
+    margin-top: 28px;
+}
+.Rating p{
+    width: 227px;
+    height: 46px;
+    font-size: 16px;
+    font-family: 'Inter';
+    font-weight: 400;
+}

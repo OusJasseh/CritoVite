@@ -1,0 +1,197 @@
+.Team-Members{
+    width: 1920px;
+    height: 1964px;
+    position: relative;
+    top: 5640px;
+    background-color: #F0D082;
+}
+
+.ourTeam{
+    width: 1320px;
+    height: 764.27px;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+
+.Team-Headline{
+    width: 1320px;
+    height: 99.87px;
+    display: flex;
+    padding-top: 100px;
+    
+}
+
+.Team-Headline .headline_1{
+    color: #F94D1C;
+    font-size: 18px;
+    font-family: 'Inter';
+    font-weight: medium;
+    
+}
+
+.Team-Headline .headline_2{
+    font-size: 45px;
+    font-family: 'DM Sans';
+    font-weight: bold;
+}
+
+.Team-Headline button{
+    border-radius: 25px;
+    width: 221px;
+    height: 56px;
+    position: relative;
+    left: 750px;
+    top: 30px;
+    
+}
+
+
+.OurMembers{
+ display: grid;
+ grid-template-columns: 1fr 1fr 1fr 1fr;
+ padding: 270px;
+ margin-left: 30px;
+ padding-top: 150px;
+}
+
+.OurMembers .member1{
+    width: 307px;
+    height: 506.9px;
+    position: relative;
+    bottom: 600px;
+    
+   
+}
+
+.OurMembers .member1 img{
+    width: 308px;
+    height: 420px;
+    
+    
+}
+
+.member1 .fullName{
+    font-size: 22px;
+    font-family: 'DM Sans';
+    font-weight: bold;
+    margin-top: 10px;
+}
+
+.member1 .occupation{
+    font-size: 16px;
+    font-family: 'Inter';
+    color: #191919;
+}
+
+.clientRating{
+    width: 1520px;
+    height: 887px;
+    margin-left: auto;
+    margin-right: auto;
+    position: relative;
+    bottom: 700px; 
+    background-color: white; 
+}
+
+.FeedbackRatings{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    width: 420px;
+    height: 402px; 
+    justify-content: space-between;
+    align-items: center;
+    gap: 50px;
+    margin-left: 100px;
+}
+.RatingHeader{
+    width: 640px;
+    height: 100.21px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    padding-top: 120.4px;
+}
+
+.RatingHeader .headline_1{
+    color: #F94D1C;
+    font-size: 18px;
+    font-family: 'Inter';
+    font-weight: 400;
+}
+
+.RatingHeader .headline_2{
+    font-size: 45px;
+    font-family: 'DM Sans';
+    font-weight: 800;
+}
+
+.Ratings{
+    width: 340px;
+    height: 306px;
+    position: relative;
+    top: 150px;
+    left: 130px;
+    
+
+}
+
+.Ratings i{
+    color: #F94D1C;
+}
+
+
+.Ratings p{
+    width: 340px;
+    height: 160px;
+
+}
+.RatingBio{
+    width: 318px;
+    height: 70px;
+    display: flex;
+    
+}
+
+
+.RatingBio img{
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+    margin-right: 30px;
+    
+    
+}
+
+.RatingBio .headline_1{
+    width: 240px;
+    height: 30px;
+    font-size: 22px;
+    font-family: 'DM Sans';
+    font-weight: bold;
+    
+}
+
+.RatingBio .headline_2{
+    width: 250px;
+    height: 21px;
+    font-size: 16px;
+    font-family: 'Inter';
+    font-weight: 400;
+    color: #F94D1C;
+   
+}
+
+.clientRating button{
+    border-radius: 25px;
+    width: 181px;
+    height: 56px;
+    position: relative;
+    top: 200px;
+    left: 700px;
+}
+
+
+
+
+

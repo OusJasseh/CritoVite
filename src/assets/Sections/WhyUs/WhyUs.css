@@ -1,0 +1,102 @@
+.WhyUs{
+    width: 1620px;
+    height: 630.27px;
+    display: flex;
+    position: absolute;
+    top: 3523px;
+    justify-content: center;
+    align-items: center;
+    left: 300px;
+    padding-bottom:90px;
+}
+.TheBest{
+    width: 447px;
+    height: 628.09px; 
+    position: absolute;
+    left: 0;
+}
+
+.TheBest .headline_1{
+    color: #F94D1C;
+    font-size: 18px;
+    font-family: 'Inter';
+    font-weight: medium;
+}
+
+.TheBest .headline_2{
+    font-size: 45px;
+    font-family: 'DM Sans';
+    font-weight: bold;
+    width: 447px;
+    height: 170px;
+    margin-top: 15.9px;
+    margin-bottom: 40.2px;
+}
+.strategy{
+    width: 447px;
+    height: 628,09px;
+    display: block;
+}
+
+.strategicBox{
+    width: 420px;
+    height: 377px;
+
+}
+
+.Strategic-Img{
+    width: 60px;
+    height: 60px;
+    display: block;
+    align-items: center;
+    justify-content: center;
+    padding: 10px;
+    margin-bottom: 40px;
+    
+}
+
+.Strategic-Img .headline_1{
+    color: black;
+    font-size: 18px;
+    font-family: 'DM SANS';
+    font-weight: bold;
+    width: 336px;
+    height: 30px;
+    line-height: 10px;
+    margin-left: 50px;
+    position: relative;
+    bottom: 30px;
+     
+}
+
+.Strategic-Img .headline_2{
+    color: black;
+    font-size: 16px;
+    font-family: 'DM SANS';
+    font-weight: 400;
+    width: 336px;
+    height: 21px;
+    position: relative;
+    bottom: 50px;
+   margin-left: 50px;
+    
+}
+
+.TwoLadies{
+    width: 1057px;
+    height: 603px;
+    justify-content: end;
+    align-items: center;
+    display: flex;
+    background: linear-gradient(360deg, #F0EFE9 70%, white 30%);
+    margin-left: 600px;
+    
+  
+}
+
+.TwoLadies img{
+    width: 645px;
+    height: 505px;
+    margin-right: 200px;
+    
+}

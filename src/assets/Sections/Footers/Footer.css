@@ -1,0 +1,73 @@
+.footerInfo{
+    width: 1920px;
+    height: 513px;
+    background-color: #0E1021;
+    position: relative;
+    top: 5650px;
+    display: flex;
+    
+}
+
+.footerLogo{
+    width: 309px;
+    height: 207,92px;
+    margin-left: 298px;
+    margin-top: 114px;
+}
+.footerLogo p{
+    font-size: 16px;
+    font-family: 'Inter';
+    color: #FFFF;
+    width: 307px;
+    height: 125px;
+    margin-top: 28px;
+}
+
+.FooterNavContainer {
+ display: grid;
+ grid-template-columns: 1fr 1fr 1fr 1fr;
+ margin-top: 120px;
+ margin-left: 110px;
+ gap: 70px;
+}
+
+.FooterNav{
+    width: 165px;
+    height: 213.03px;
+    
+    
+   
+}
+
+.footerHeader{
+    font-size: 22px;
+    font-family: 'DM Sans';
+    font-weight: bold;
+    color: white;
+    width: 152px;
+    height: 30px;
+    margin-bottom: 40px;
+    
+    
+    
+    
+}
+
+.FooterLinks{
+    font-size: 16px;
+    font-family: 'Inter';
+    font-weight: 400;
+    color: White;
+    
+    
+    
+    
+}
+
+
+
+
+
+
+
+

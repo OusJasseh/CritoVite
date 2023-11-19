@@ -1,0 +1,60 @@
+.TrustSection{
+    width: 1520px;
+    height: 600px;
+    position: absolute;
+    top: 1140px;
+    left: 200px;
+    right: 200px;
+    display: flex;
+}
+
+.TrustBox{
+    width: 460px;
+    height: 303.09px;
+    display: block;
+    margin-left: 100px;
+    margin-top: 80px;
+}
+
+.TrustBox h6{
+    width: 90px;
+    height: 24px;
+    color: #F94D1C;
+    font-size: 18px;
+    font-family: 'Inter';
+    margin-bottom: 14.7px;
+}
+
+.TrustBox h1{
+    width: 460px;
+    height: 168px;
+    color: black;
+    font-size: 45px;
+    font-family: 'DM SANS';
+    font-weight: bold;
+    
+}
+
+.TrustBox Button{
+   width: 460px;
+   height: 56px;
+   position: absolute;
+   left: 100px;
+   top: 328px;
+}
+
+.Trusts{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: 1fr 1fr;
+    margin-left: 150px;
+    padding: 70px;
+    
+    
+}
+.TrustRatings{
+    width: 227px;
+    height: 164.82px;
+    margin-right: 70px;
+    
+}

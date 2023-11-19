@@ -1,0 +1,24 @@
+button i{
+    margin-left: 10px;
+}
+
+.btn-yellow {
+    background-color: #F9D783;
+    border-radius: 25px;
+    border: none;
+}
+
+.btn-transparent{
+    background-color: transparent;
+    border: 1px solid black;
+    color: black;
+}
+
+.btn-dark{
+    background-color: rgb(14, 6, 6);
+    color: white
+
+}
+
+
+

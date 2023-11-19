@@ -1,0 +1,103 @@
+.AboutUs{
+    width: 1320px;
+    height: 615px;
+    display: flex;
+    justify-content: start;
+    position: absolute;
+    top: 1620px;
+    left: 300px;
+    margin-top: 103px;
+}
+
+.CeoImg img{
+    width: 533px;
+    height: 615px;
+    margin-left: 56px;
+    
+}
+
+.ceoInfo {
+    width: 368px;
+    height: 180px;
+    position: absolute;
+    top: 400px;
+    background-color: #BEEBFF;
+    padding-top: 25px;
+    padding-left: 25px;
+
+}
+
+.ceo{
+    display: flex;
+}
+
+.ceoInfo h1{
+    font-size: 20px;
+    font-family: 'DM Sans';
+    
+}
+
+.ceoInfo .Founder {
+    font-size: 16px;
+    font-family: 'DM Sans';
+    margin-left: 10px;
+    color: #F94D1C;
+    font-weight: bold;
+    padding-right: 90px;
+    padding-top: 2px;
+}
+
+.ceoInfo .Lourem-ceo {
+width: 320px;
+height: 47px;
+position: absolute;
+bottom: 10px;
+padding-bottom: 80px;
+}
+
+.AboutCompany{
+    width: 532px;
+    height: 589.27px;
+    margin-left: 199px;
+}
+
+.AboutCompany h1{
+    font-size: 18px;
+    font-family: 'Inter';
+    width: 137px;
+    height: 24px;
+    font-weight: 400;
+    color: #F94D1C;
+}
+.AboutCompany p{
+    font-size: 45px;
+    font-family: 'DM Sans';
+    font-weight: bold;
+    width: 532;
+    height: 168px;
+    
+}
+
+.AboutCompany .Lourem {
+    font-size: 16px;
+    font-weight: 400;
+    padding-top: 50px;
+    width: 488px;
+    height: 181px;
+    font-family: 'Inter';
+}
+
+.AboutCompany button{
+    border-radius: 25px;
+    position: absolute;
+    top: 500px;
+    left: 800px;
+    width: 180px;
+    height: 56px;
+}
+
+.AboutUs .fa-circle-play{
+    position: absolute;
+    top: 520px;
+    right: 250px;
+}

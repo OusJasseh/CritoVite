@@ -1,0 +1,52 @@
+.Box{
+    width: 308px;
+    height: 333px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: white;
+    margin: 20px;
+    
+    
+    
+}
+
+.BoxSize{
+    width: 248px;
+    height: 237px;
+    display: block;
+    background-color: white;
+    
+    
+}
+.Box h1{
+    font-size: 22px;
+    font-family: 'DM Sans';
+    font-weight: bold;
+    width: 2248px;
+    height: 29px;
+    padding-top: 50px;
+}
+
+.Box p{
+    margin-top: 50px;
+    font-size: 16px;
+    font-family: 'Inter';
+    font-weight: 400;
+    width: 248px;
+    height: 77px;
+    text-align: start;
+   
+}
+
+.Arrow{
+    width:56px;
+    height: 56px;
+    border-radius: 50px;
+    background-color: black;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 170px;
+}

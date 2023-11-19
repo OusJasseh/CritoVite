@@ -1,0 +1,16 @@
+.Ads{
+    width: 1320px;
+    height: 88px;
+    display: flex;
+    position: absolute;
+    top: 972px;
+    left: 300px;
+    right: 300px;
+    margin-bottom: 80px;
+    justify-content: space-between;
+}
+
+.Ads .AdImage{
+    width: 224px;
+    height: 88px;
+}
